@@ -1,4 +1,4 @@
-📌 Uso de la consola: conceptos básicos
+# **Uso de la consola: conceptos básicos**📌
 
 La consola o línea de comandos es una herramienta que permite interactuar con el sistema operativo mediante texto. A través de comandos puedes navegar por carpetas, crear archivos y directorios, moverte entre rutas y gestionar archivos de forma rápida y precisa, sin necesidad de una interfaz gráfica.
 
