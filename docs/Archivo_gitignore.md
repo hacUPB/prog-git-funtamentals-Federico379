@@ -11,7 +11,7 @@ Sirve para evitar subir cosas que:
 
 En resumen: mantiene tu repo limpio y profesional 😌
 
-¿Qué se suele poner en un .gitignore para Python?
+¿Qué se suele poner en un .gitignore para Python?  
 🔹 1. Archivos de caché de Python
 
 Python genera muchos archivos temporales que nunca deberías versionar:
