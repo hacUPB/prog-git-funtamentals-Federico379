@@ -1,4 +1,5 @@
-**¿Que es .gitignore?
+# **¿Que es .gitignore?**
+
 Un .gitignore es un archivo de texto que le dice a Git qué archivos o carpetas NO debe seguir ni subir al repositorio.
 Sirve para evitar subir cosas que:
 
