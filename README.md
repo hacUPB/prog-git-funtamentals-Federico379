@@ -1,3 +1,30 @@
+# Evaluación Unidad 1 – Git y GitHub
+
+Este repositorio corresponde a la Evaluación de la Unidad No. 1 de la asignatura.
+El objetivo del proyecto es practicar el uso de Git y GitHub, la creación de
+repositorios, commits, estructura de carpetas y documentación usando Markdown.
+
+El proyecto incluye un script en Python para calcular el promedio de una lista
+de números ingresados por el usuario, además de documentación sobre el uso de
+la consola y el manejo de repositorios locales y remotos.
+
+# **PASOS PARA CLONAR UN REPOSITORIO**
+
+Primero, se debe ingresar a la plataforma GitHub desde un navegador web e iniciar sesión con la cuenta personal. Luego, se accede al repositorio que fue creado o asignado para la evaluación. Dentro del repositorio, se debe ubicar el botón “Code”, el cual permite copiar la dirección (URL) del repositorio.
+
+Una vez copiada la URL, se abre la consola o terminal del computador y se navega hasta la carpeta donde se desea guardar el proyecto. En ese momento, se realiza el proceso de clonación, el cual consiste en crear una copia exacta del repositorio remoto en el computador local. Al finalizar este proceso, el repositorio quedará disponible en el equipo para comenzar a trabajar de manera local.
+
+## 📚 Documentación del proyecto
+
+| Archivo | Descripción |
+|--------|------------|
+| [Uso de la consola](docs/uso_consola.md) | Comandos básicos de la consola y navegación de directorios |
+| [Repositorio local](docs/repositorio_local.md) | Creación y manejo de repositorios locales con Git |
+| [Repositorio remoto](docs/repositorio_remoto.md) | Creación y sincronización de repositorios en GitHub |
+| [Archivo .gitignore](docs/Archivo_gitignore.md) | Explicación del archivo .gitignore y su uso |
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
