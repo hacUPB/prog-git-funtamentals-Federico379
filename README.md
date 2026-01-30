@@ -9,6 +9,7 @@ de números ingresados por el usuario, además de documentación sobre el uso de
 la consola y el manejo de repositorios locales y remotos.
 
 **PASOS PARA CLONAR UN REPOSITORIO**
+
 Primero, se debe ingresar a la plataforma GitHub desde un navegador web e iniciar sesión con la cuenta personal. Luego, se accede al repositorio que fue creado o asignado para la evaluación. Dentro del repositorio, se debe ubicar el botón “Code”, el cual permite copiar la dirección (URL) del repositorio.
 
 Una vez copiada la URL, se abre la consola o terminal del computador y se navega hasta la carpeta donde se desea guardar el proyecto. En ese momento, se realiza el proceso de clonación, el cual consiste en crear una copia exacta del repositorio remoto en el computador local. Al finalizar este proceso, el repositorio quedará disponible en el equipo para comenzar a trabajar de manera local.
