@@ -74,5 +74,5 @@ clear
 Limpia la pantalla de la consola.
 
 ![foto_1](../images/foto%201.png)
-![foto_1](../images/foto%202.png)
-![foto_1](../images/foto%203.png)
+![foto_2](../images/foto%202.png)
+![foto_3](../images/foto%203.png)  
